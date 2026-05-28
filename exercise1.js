@@ -7,7 +7,7 @@ return a * b * c;
 }
 
 console.log (multiply(8,5,4));
-console.log (multiply(8,5,8));// Numbers must be different
+console.log (multiply(8,5,8));
 
 let convertToSeconds = function (minutes){
     return minutes * 60;
